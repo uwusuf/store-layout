@@ -1,0 +1,8 @@
+.config/
+package.json
+yarn.lock
+node_modules
+.replit
+.cache
+replit.nix
+vite.config.js
